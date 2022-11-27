@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867537410975",
+    "project_id": "stamp-rally-360613",
+    "storage_bucket": "stamp-rally-360613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867537410975:android:9a01eb22b589d6798bbbaa",
+        "android_client_info": {
+          "package_name": "com.example.stamprally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867537410975-ur7u5i0t50f9jdh5i5maq36e5ge1iuc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1gyPwSIMcownCEkXkAiI9ulWcDlLq9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867537410975-ur7u5i0t50f9jdh5i5maq36e5ge1iuc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
